@@ -26,8 +26,8 @@ function objectToQueryString(obj) {
         .join('&');
 }
 
-console.log(objectToQueryString({ name: "John", age: 30 }));
-// Output: "name=John&age=30"
+console.log(objectToQueryString({ name: "John", age: 30 })); // Output: "name=John&age=30"
+
 ```
 
 ---
