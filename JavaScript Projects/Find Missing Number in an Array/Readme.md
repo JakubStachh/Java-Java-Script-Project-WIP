@@ -42,21 +42,23 @@ $$
 $$
 <br></br>
 
-      - where `n` is the length of the `array + 1` (because one number is missing).
+       where `n` is the length of the `array + 1` (because one number is missing).
 ##
 2. Calculate the sum of the elements in the array.
 
 3. The missing number is found by subtracting the sum of the array from the expected sum. This gives us the number that's missing.
 
-📊 Example Output
-Given an array like [1, 2, 3, 5], the missing number is 4 because the expected sequence is [1, 2, 3, 4, 5].
+---
+## 📊 Example Output
+1. **Given an array like** `[1, 2, 3, 5]`, the missing number is `4` because the expected sequence is `[1, 2, 3, 4, 5]`.
 
-🚀 Use Cases
-Array manipulation and pattern recognition 🧩
+---
+## 🚀 Use Cases
+- Array manipulation and pattern recognition 🧩
 
-Problem-solving in algorithm challenges ⚙️
+- Problem-solving in algorithm challenges ⚙️
 
-Mathematical sequence completion 📐
+- Mathematical sequence completion 📐
 
-Finding errors in data 🛠️
+- Finding errors in data 🛠️
 
