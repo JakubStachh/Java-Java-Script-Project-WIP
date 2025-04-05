@@ -71,7 +71,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 #### But if you're using e.g. Windows Powershell you should:
 
-- Make sure you have GO installed. You can install it using [Oracle](https://www.oracle.com/java/technologies/downloads/?er=221886):
+- Make sure you have Java installed. You can install it using [Oracle](https://www.oracle.com/java/technologies/downloads/?er=221886):
 
   ```
   java -version
