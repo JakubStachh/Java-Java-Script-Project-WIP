@@ -110,7 +110,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
   
   ```
   javac HelloWorld.java
-  java HelloWorld
+  java HelloWorld.java
   ```
 ##
 - For `JavaScript` make sure You got [`Node.js`](https://nodejs.org/en) installed:
