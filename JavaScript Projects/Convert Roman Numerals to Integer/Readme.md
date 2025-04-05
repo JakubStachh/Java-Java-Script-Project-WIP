@@ -37,18 +37,21 @@ function romanToInt(roman) {
 console.log(romanToInt("IX"));    // 9 ✅
 console.log(romanToInt("XLII"));  // 42 ✅
 ```
-🔍 How It Works
-A lookup table (values) stores the integer values for Roman symbols.
 
-Loop through the Roman numeral string:
+---
+## 🔍 How It Works
+- A lookup table (`values`) stores the integer values for Roman symbols.
 
-If a smaller value comes before a larger one (like I before X), subtract it.
+- Loop through the Roman numeral string:
 
-Otherwise, add it.
+    - If a smaller value comes before a larger one (like `I` before `X`), subtract it.
 
-Add or subtract each value accordingly to get the final result!
+    - Otherwise, add it.
 
-🧠 Roman Numerals Reference:
+- Add or subtract each value accordingly to get the final result!
+
+---
+## 🧠 Roman Numerals Reference:
 
 |Symbol |	Value|
 |-------|------|
@@ -59,8 +62,10 @@ Add or subtract each value accordingly to get the final result!
 |C|100|
 |D|500|
 |M|1000|
-🧾 Sample Output
-Copy
-Edit
+
+---
+## 🧾 Sample Output
+```yaml
 9
 42
+```
