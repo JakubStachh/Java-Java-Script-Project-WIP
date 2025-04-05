@@ -49,12 +49,12 @@ class Student {
         System.out.println("Courses: " + String.join(", ", courses));
     }
 }
-StudentManagementSystem.java:
-The StudentManagementSystem class manages the student database using a HashMap where the key is the student's roll number, and the value is the Student object. It provides methods to add students and retrieve them by their roll number.
+```
+## 
+### StudentManagementSystem.java:
+- The `StudentManagementSystem` class manages the student database using a `HashMap` where the key is the student's roll number, and the value is the Student object. It provides methods to add students and retrieve them by their roll number.
 
-java
-Copy
-Edit
+```java
 import java.util.*;
 
 public class StudentManagementSystem {
@@ -84,45 +84,52 @@ public class StudentManagementSystem {
         student.displayInfo();
     }
 }
-⚙️ How It Works
-➕ Add Student: You can add a student by calling the addStudent method, providing the student's roll number and name.
+```
 
-java
-Copy
-Edit
+---
+## ⚙️ How It Works
+### ➕ Add Student: 
+You can add a student by calling the addStudent method, providing the student's roll number and name.
+
+```java
 addStudent(1, "John Doe");
-📚 Add Course: A student can be enrolled in one or more courses using the addCourse method.
+```
+##
+### 📚 Add Course: 
+A student can be enrolled in one or more courses using the addCourse method.
 
-java
-Copy
-Edit
+```java
 student.addCourse("Mathematics");
 student.addCourse("Computer Science");
-📝 Remove Course: If necessary, a course can be removed from the student's list by using the removeCourse method.
+```
+##
+### 📝 Remove Course: 
+If necessary, a course can be removed from the student's list by using the removeCourse method.
 
-java
-Copy
-Edit
+```java
 student.removeCourse("Computer Science");
-🔍 Display Info: To view a student's details, including their enrolled courses, you can use the displayInfo method.
+```
+##
+### 🔍 Display Info: 
+To view a student's details, including their enrolled courses, you can use the displayInfo method.
 
-java
-Copy
-Edit
+```java
 student.displayInfo();
-📝 Example Usage
-1. Adding Students:
-Student 1: John Doe (Roll Number: 1)
+```
 
-2. Adding Courses:
-John Doe is enrolled in Mathematics and Computer Science.
+---
+## 📝 Example Usage
+### 1. Adding Students:
+  - Student 1: Joe Momma (Roll Number: 1)
 
-3. Displaying Student Information:
-John Doe’s information will be displayed:
+### 2. Adding Courses:
+  - Joe Momma is enrolled in Mathematics and Computer Science.
 
-yaml
-Copy
-Edit
+### 3. Displaying Student Information:
+  - Joe Momma’s information will be displayed:
+
+```yaml
 Roll Number: 1
 Name: John Doe
 Courses: Mathematics, Computer Science
+```
