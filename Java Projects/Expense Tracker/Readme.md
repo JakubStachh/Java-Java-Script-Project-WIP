@@ -88,7 +88,8 @@ public class ExpenseTracker {
 
 ---
 ## ⚙️ How It Works
-### 1. 💳 Adding an Expense: When you add an expense, it is stored in a list and saved to a file. Each expense consists of a category, amount, and the date when the expense occurred.
+### 1. 💳 Adding an Expense: 
+When you add an expense, it is stored in a list and saved to a file. Each expense consists of a category, amount, and the date when the expense occurred.
 
 **Example:**
 
@@ -96,9 +97,11 @@ public class ExpenseTracker {
 addExpense("Groceries", 50.75, "2025-03-29");
 addExpense("Transport", 15.00, "2025-03-29");
 ```
-### 2. 💾 Saving to File: All the expenses are written to a file (`expenses.txt`) using a `BufferedWriter` so that the data is persistent between application runs.
+### 2. 💾 Saving to File: 
+All the expenses are written to a file (`expenses.txt`) using a `BufferedWriter` so that the data is persistent between application runs.
 
-### 3. 📑 Displaying Expenses: The expenses are printed in a readable format: `Date | Category | Amount`.
+### 3. 📑 Displaying Expenses: 
+The expenses are printed in a readable format: `Date | Category | Amount`.
 
 **Example Output:**
 
