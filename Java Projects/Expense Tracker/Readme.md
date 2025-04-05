@@ -97,9 +97,10 @@ When you add an expense, it is stored in a list and saved to a file. Each expens
 addExpense("Groceries", 50.75, "2025-03-29");
 addExpense("Transport", 15.00, "2025-03-29");
 ```
+##
 ### 2. 💾 Saving to File: 
 All the expenses are written to a file (`expenses.txt`) using a `BufferedWriter` so that the data is persistent between application runs.
-
+##
 ### 3. 📑 Displaying Expenses: 
 The expenses are printed in a readable format: `Date | Category | Amount`.
 
@@ -119,7 +120,7 @@ The following expenses are added in the main method:
   - 🍞 Groceries: `$50.75` on `2025-03-29`
 
   - 🚗 Transport: `$15.00` on `2025-03-29`
-
+##
 ### 2. Display Expenses:
 After adding the expenses, they are displayed like this:
 
