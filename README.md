@@ -114,14 +114,18 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
   ```
 ##
 - For `JavaScript` make sure You got [`Node.js`](https://nodejs.org/en) installed:
+- 
   ```
   node -v
   ```
+  
   & `NPM`
   ```
   npm -v
   ```
+  
 - Then You'll need to run the `JavaScript` file using `Node.js`:
+  
   ```
   node app.js
   ```
