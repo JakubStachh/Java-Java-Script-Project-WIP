@@ -8,7 +8,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-|‎  ‎ 1️⃣|[]()||
+|‎  ‎ 1️⃣|[Bank Account Management System](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Bank%20Account%20Management%20System)|This Java program simulates a simple bank account system.|
 |‎  ‎ 2️⃣ |[]()||
 |‎‎‎  ‎ 3️⃣ |[]()||
 |‎  ‎ 4️⃣ |[]()||
