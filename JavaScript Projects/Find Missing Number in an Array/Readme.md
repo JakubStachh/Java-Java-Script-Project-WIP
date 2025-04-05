@@ -42,7 +42,7 @@ $$
 $$
 <br></br>
 
-   - where `n` is the length of the `array + 1` (because one number is missing).
+      - where `n` is the length of the `array + 1` (because one number is missing).
 ##
 2. Calculate the sum of the elements in the array.
 
