@@ -27,7 +27,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 |‎‎‎  3️⃣|[]()||
 |‎  4️⃣|[]()||
 |‎  5️⃣|[]()||
-|   ‎6️⃣|[]()||
+|  6️⃣|[]()||
 |‎  7️⃣|[]()||
 |‎  8️⃣|[]()||
 |‎  9️⃣|[]()||
