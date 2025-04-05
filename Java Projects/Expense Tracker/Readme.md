@@ -138,12 +138,14 @@ To compile the Java files, use the following command:
 ```bash
 javac ExpenseTracker.java
 ```
+##
 ### 2. ▶️ Run the Program:
 After compiling, run the program using:
 
 ```bash
 java ExpenseTracker
 ```
+##
 ### 3. 📂 File Output:
 The application will generate a file named `expenses.txt` containing all expenses in the following format:
 
