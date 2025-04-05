@@ -130,6 +130,6 @@ student.displayInfo();
 
 ```yaml
 Roll Number: 1
-Name: John Doe
+Name: Joe Momma
 Courses: Mathematics, Computer Science
 ```
