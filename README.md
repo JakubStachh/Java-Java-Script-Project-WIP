@@ -89,7 +89,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 ---
 
-## 📦 La Installation `JavaScript`
+## 📦 La Installation `Java` & `JavaScript` 
 
 ### 𓀃 The Actual Installation🤌🤌
 
@@ -97,23 +97,36 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 #### But if you're using e.g. Windows Powershell you should:
 
-- Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
+- Make sure you have GO installed. You can install it using [Oracle](https://www.oracle.com/java/technologies/downloads/?er=221886):
 
   ```
-  go version
+  java -version
   ```
   
 - [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
 - Unpack the zip file
-- Find the `GO-Projects-main\GO Projects\`
-- Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
+- Open the folder of the program You want to try out 
 - and then run:
   
-  ```sh
-  go run AnagramCheck.go
+  ```
+  javac HelloWorld.java
+  java HelloWorld
+  ```
+##
+- For `JavaScript` make sure You got [`Node.js`](https://nodejs.org/en) installed:
+  ```
+  node -v
+  ```
+  & `NPM`
+  ```
+  npm -v
+  ```
+- Then You'll need to run the `JavaScript` file using `Node.js`:
+  ```
+  node app.js
   ```
 
-
+  
 ---
 
 # THANK YOU!
