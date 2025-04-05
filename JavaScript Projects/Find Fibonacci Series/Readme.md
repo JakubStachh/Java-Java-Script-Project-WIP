@@ -48,7 +48,7 @@ console.log(fibonacci(10)); // 55 ✅
 ## 📊 Fibonacci Sequence Example:
 ```yaml
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55...
-For example:
-
-fibonacci(6) returns 8 because the sequence starts 0, 1, 1, 2, 3, 5, 8...
 ```
+For example:
+  - `fibonacci(6)` returns `8` because the sequence starts `0, 1, 1, 2, 3, 5, 8...`
+
