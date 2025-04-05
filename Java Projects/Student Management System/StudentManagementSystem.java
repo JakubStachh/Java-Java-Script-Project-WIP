@@ -39,7 +39,7 @@ public class StudentManagementSystem {
     }
 
     public static void main(String[] args) {
-        addStudent(1, "John Doe");
+        addStudent(1, "Joe Momma");
         Student student = getStudent(1);
         student.addCourse("Mathematics");
         student.addCourse("Computer Science");
