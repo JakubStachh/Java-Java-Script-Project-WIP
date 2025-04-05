@@ -25,11 +25,11 @@ console.log(areRotations("abc", "acb"));    // false ❌
 ## How It Works 🔍:
 1. The function first checks if both strings are of the same length 🧮.
 
-2. It then concatenates the first string with itself (str1 + str1) 🔗.
+2. It then concatenates the first string with itself (`str1` + `str1`) 🔗.
 
 3. If the second string is a substring of the concatenated string, then it is a rotation of the first string 🔄.
 
-4. If both conditions are true, it returns true ✅, otherwise it returns false ❌.
+4. If both conditions are true, it returns `true` ✅, otherwise it returns `false` ❌.
 
 ---
 ## Example Output 📊:
