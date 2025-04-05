@@ -22,7 +22,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-| 1️⃣|[Check Prime Number](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/JavaScript%20Projects/Check%20Prime%20Numberv)|This simple JavaScript function checks whether a given number is prime|
+|   1️⃣|[Check Prime Number](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/JavaScript%20Projects/Check%20Prime%20Numberv)|This simple JavaScript function checks whether a given number is prime|
 | 2️⃣|[Check for Anagrams](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/JavaScript%20Projects/Check%20for%20Anagrams)|This JavaScript function checks if two given strings are anagrams of each other|
 |‎‎‎‎‎‎3️⃣|[Check if Two Strings are Rotations of Each Other](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/JavaScript%20Projects/Check%20if%20Two%20Strings%20are%20Rotations%20of%20Each%20Other)|It checks if you can rotate one string to form the other by shifting characters.|
 |‎4️⃣|[Check if a Number is a Perfect Square](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/JavaScript%20Projects/Check%20if%20a%20Number%20is%20a%20Perfect%20Square)|This JavaScript function checks whether a given number is a perfect square|
