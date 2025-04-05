@@ -22,7 +22,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-|  ‎1️⃣|[]()||
+|  ‎1️⃣|[Check Prime Number](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/JavaScript%20Projects/Check%20Prime%20Numberv)|This simple JavaScript function checks whether a given number is prime|
 |  ‎2️⃣|[]()||
 |‎‎‎  3️⃣|[]()||
 |‎  4️⃣|[]()||
