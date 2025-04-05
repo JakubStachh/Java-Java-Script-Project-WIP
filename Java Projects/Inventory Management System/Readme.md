@@ -102,8 +102,9 @@ To see the details of a product, simply call the displayInfo method. This will s
 ```java
 laptop.displayInfo();
 ```
-##
-### 📝 Example Usage
+---
+
+## 📝 Example Usage
 #### 1. Adding Products:
   - Laptop with quantity `50` and price `$700.00`.
 
