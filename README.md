@@ -4,7 +4,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 ---
 
-## 📂 Project List  
+## 📂 Project List: `Java`  
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
@@ -33,7 +33,37 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 ---
 
-## 📦 La Installation
+## 📂 Project List: `JavaScript`  
+
+| #  | Project Name               | Description |
+|----|----------------------------|-------------|
+|‎  ‎ 1️⃣|[]()||
+|‎  ‎ 2️⃣ |[]()||
+|‎‎‎  ‎ 3️⃣ |[]()||
+|‎  ‎ 4️⃣ |[]()||
+|‎  ‎ 5️⃣ |[]()||
+|‎  ‎ 6️⃣ |[]()||
+|‎  ‎ 7️⃣ |[]()|
+|‎  ‎ 8️⃣ |[]()||
+|‎  ‎ 9️⃣ |[]()||
+| 1️⃣0️⃣ |[]()||
+| 1️⃣1️⃣ |[]()||
+| 1️⃣2️⃣ |[]()||
+| 1️⃣3️⃣ |[]()||
+| 1️⃣4️⃣ |[]()||
+| 1️⃣5️⃣ |[]()||
+| 1️⃣6️⃣ |[]()||
+| 1️⃣7️⃣ |[]()||
+| 1️⃣8️⃣ |[]()||
+| 1️⃣9️⃣ |[]()||
+| 2️⃣0️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
+
+
+---
+
+
+## 📦 La Installation `Java`
 
 ### 𓀃 The Actual Installation🤌🤌
 
@@ -56,7 +86,33 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
   ```sh
   go run AnagramCheck.go
   ```
-#### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
+
+---
+
+## 📦 La Installation `JavaScript`
+
+### 𓀃 The Actual Installation🤌🤌
+
+#### You can use [Programiz Complier](https://www.programiz.com/swift/online-compiler/) or similar online compliers to run the code
+
+#### But if you're using e.g. Windows Powershell you should:
+
+- Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
+
+  ```
+  go version
+  ```
+  
+- [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
+- Unpack the zip file
+- Find the `GO-Projects-main\GO Projects\`
+- Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
+- and then run:
+  
+  ```sh
+  go run AnagramCheck.go
+  ```
+
 
 ---
 
