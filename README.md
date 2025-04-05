@@ -8,8 +8,8 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-|‎ 1️⃣ |[Bank Account Management System](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Bank%20Account%20Management%20System)|This Java program simulates a simple bank account system.|
-|‎  ‎2️⃣ |[Chat Application](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Chat%20Application)|This chat application consists of two parts: the Chat Server and the Chat Client|
+|‎1️⃣|[Bank Account Management System](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Bank%20Account%20Management%20System)|This Java program simulates a simple bank account system.|
+|‎2️⃣[Chat Application](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Chat%20Application)|This chat application consists of two parts: the Chat Server and the Chat Client|
 |‎‎‎  ‎3️⃣ |[Expense Tracker](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Expense%20Tracker)|The Expense Tracker is a simple Java application that allows users to track their expenses|
 |‎  ‎4️⃣ |[Inventory Management System](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Inventory%20Management%20System)|The Inventory Management System is a simple Java application designed to track products in an inventory|
 |‎  ‎5️⃣ |[Library Management System](https://github.com/JakubStachh/Java-Java-Script-Project/tree/main/Java%20Projects/Library%20Management%20System)|The Library Management System allows you to manage a collection of books|
