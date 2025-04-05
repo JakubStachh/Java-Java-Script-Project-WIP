@@ -29,9 +29,9 @@ console.log(isAnagram("hello", "world"));   // false ❌
 
 3. The sorted arrays are joined back into strings and compared 🆚.
 
-4. If the sorted strings are identical, the function returns true ✅, meaning the strings are anagrams.
+4. If the sorted strings are identical, the function returns `true` ✅, meaning the strings are anagrams.
 
-5. Otherwise, it returns false ❌.
+5. Otherwise, it returns `false` ❌.
 
 ---
 ## Example Output 📊:
