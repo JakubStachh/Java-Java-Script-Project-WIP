@@ -146,7 +146,7 @@ public class ChatClient {
 
 ---
 ## 🖼️ Sample Output:
-```arduino
+```yaml
 Chat Server Started...
 
 Client 1 sends: Hello everyone!
