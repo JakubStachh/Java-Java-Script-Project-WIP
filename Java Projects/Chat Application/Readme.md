@@ -143,3 +143,15 @@ public class ChatClient {
     }
 }
 ```
+
+---
+## 🖼️ Sample Output:
+```arduino
+Chat Server Started...
+
+Client 1 sends: Hello everyone!
+Client 2 receives: Server: Hello everyone!
+
+Client 1 sends: How are you?
+Client 2 receives: Server: How are you?
+```
