@@ -38,8 +38,9 @@ console.log(lcm(7, 3)); // 21 ✅
 $$
 \text{LCM}(a, b) = \frac{a \times b}{\text{GCD}(a, b)}
 $$
-
-​      - where GCD stands for the Greatest Common Divisor.
+```
+​       where GCD stands for the Greatest Common Divisor.
+```
 ##
 2. It uses the helper function `gcd(a, b)` (not shown here, but assumed to be implemented) to find the greatest common divisor of the two numbers. Then, the LCM is computed using the formula.
 
