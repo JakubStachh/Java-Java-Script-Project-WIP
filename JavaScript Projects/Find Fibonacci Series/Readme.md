@@ -14,7 +14,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 - `n` (Number): The position in the Fibonacci sequence (non-negative integer).
 
 #### 🎯 Returns:
-- The **n-th Fibonacci number**.
+- The **`n`-th Fibonacci number**.
 
 ---
 
