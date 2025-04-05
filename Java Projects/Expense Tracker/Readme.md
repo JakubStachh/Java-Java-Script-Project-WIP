@@ -36,6 +36,40 @@ Contains the main logic for adding, displaying, and saving expenses:
 
 ## ⚙️ How It Works
 
+1. **Adding an Expense**: 
+   When you add an expense, it is stored in a list and saved to a file. Each expense consists of a category, amount, and the date when the expense occurred.
+
+2. **Saving to File**: 
+   All the expenses are written to a file (`expenses.txt`) using a `BufferedWriter` so that the data is persistent between application runs.
+
+3. **Displaying Expenses**:
+   The expenses are printed in a readable format: `Date | Category | Amount`.
+
+---
+
+## Example Usage
+
+### **1. Add Expense**:
+The following expenses are added in the main method:
+- **Groceries**: $50.75 on `2025-03-29`
+- **Transport**: $15.00 on `2025-03-29`
+
+
+## 📚 Code Explanation
+
+### **Expense.java**:
+Represents an expense entry with a category, amount, and date. The class also includes a `toString` method to format the expense in a readable manner.
+
+### **ExpenseTracker.java**:
+Contains the main logic for adding, displaying, and saving expenses:
+- `addExpense(String category, double amount, String date)`: Adds a new expense and saves it to the list.
+- `saveExpensesToFile()`: Saves all recorded expenses to a file (`expenses.txt`).
+- `showExpenses()`: Displays all recorded expenses to the user.
+
+---
+
+## ⚙️ How It Works
+
 1. **💳 Adding an Expense**: 
    When you add an expense, it is stored in a list and saved to a file. Each expense consists of a category, amount, and the date when the expense occurred.
 
