@@ -36,12 +36,12 @@ console.log(missingNumber([1, 2, 4, 5, 6])); // 3 ✅
 ## 🔍 How It Works
 1. Calculate the expected sum of numbers from `1` to `n` using the formula:
 
-
+<br></br>
 $$
 \large \text{sum} = \frac{n(n + 1)}{2}
 $$
+<br></br>
 
- 
    - where `n` is the length of the `array + 1` (because one number is missing).
 ##
 2. Calculate the sum of the elements in the array.
