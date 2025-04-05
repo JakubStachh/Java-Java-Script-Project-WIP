@@ -110,6 +110,10 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
   
   ```
   javac HelloWorld.java
+  java Main
+  ```
+  Or just: 
+  ```
   java HelloWorld.java
   ```
 ##
