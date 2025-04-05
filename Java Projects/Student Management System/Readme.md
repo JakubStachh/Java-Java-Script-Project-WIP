@@ -71,7 +71,7 @@ public class StudentManagementSystem {
 
     public static void main(String[] args) {
         // Add a new student
-        addStudent(1, "John Doe");
+        addStudent(1, "Joe Momma");
 
         // Retrieve and manage the student
         Student student = getStudent(1);
