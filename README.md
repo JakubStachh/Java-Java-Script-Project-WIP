@@ -114,7 +114,7 @@ A collection of 'beginner-friendly' covering **algorithms, problem-solving, and 
   ```
 ##
 - For `JavaScript` make sure You got [`Node.js`](https://nodejs.org/en) installed:
-- 
+ 
   ```
   node -v
   ```
