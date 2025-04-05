@@ -42,6 +42,8 @@ class Product {
     }
 }
 ```
+
+---
 ### **InventoryManagementSystem.java:**
 Contains the logic for adding products to the inventory, updating stock, and displaying product information.
 
@@ -79,20 +81,23 @@ public class InventoryManagementSystem {
 
 ---
 ## ⚙️ How It Works
-### ➕ Add Product: You can add new products to the inventory using the addProduct method. Each product has a name, quantity, and price.
+### ➕ Add Product: 
+You can add new products to the inventory using the addProduct method. Each product has a name, quantity, and price.
 
 ```java
 addProduct("Laptop", 50, 700.00);
 addProduct("Smartphone", 100, 500.00);
 ```
 ##
-### 🔄 Update Stock: The updateStock method is used to modify the quantity of a specific product. You can either increase or decrease the quantity depending on the argument passed.
+### 🔄 Update Stock: 
+The updateStock method is used to modify the quantity of a specific product. You can either increase or decrease the quantity depending on the argument passed.
 
 ```java
 laptop.updateStock(30);  // Increase stock by 30 units
 ```
 ##
-### 📊 Display Product Info: To see the details of a product, simply call the displayInfo method. This will show the product's name, quantity, and price.
+### 📊 Display Product Info: 
+To see the details of a product, simply call the displayInfo method. This will show the product's name, quantity, and price.
 
 ```java
 laptop.displayInfo();
