@@ -47,7 +47,7 @@ console.log(arrayUnion([5, 6, 7], [7, 8, 9])); // [5, 6, 7, 8, 9] ✅
 - For `arrayUnion([5, 6, 7], [7, 8, 9])`, the output is `[5, 6, 7, 8, 9]`.
 
 ---
-🚀 Use Cases
+## 🚀 Use Cases
 - Combining data: Merge datasets while ensuring uniqueness 🗂️
 
 - Removing duplicates: Quickly remove duplicate elements from two arrays 🔄
