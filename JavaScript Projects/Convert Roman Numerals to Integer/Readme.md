@@ -36,6 +36,7 @@ function romanToInt(roman) {
 
 console.log(romanToInt("IX"));    // 9 ✅
 console.log(romanToInt("XLII"));  // 42 ✅
+```
 🔍 How It Works
 A lookup table (values) stores the integer values for Roman symbols.
 
